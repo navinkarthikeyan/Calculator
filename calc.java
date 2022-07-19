@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class jaba {
+public class calc {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System. in);
-        System.out.println("You want to add or sub: ");
+        System.out.println("You want to add or sub <3: ");
         String j = sc.nextLine();
         if (j.equals("add")) {
             int a = sc.nextInt();
